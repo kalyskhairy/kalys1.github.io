@@ -70,3 +70,10 @@ button:hover {
     color: white;
     background: burlywood;
 }
+
+-moz-appearance: none;
+-webkit-appearance: none;
+appearance: none;
+
+-moz-appearance: none;
+-moz-appearance: none;
