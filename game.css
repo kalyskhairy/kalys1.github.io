@@ -12,7 +12,6 @@ body {
     margin: 1.66%;
     border-radius: 50%;
     transition: background 0.5s;
-    -webkit-transition: background 0.5s;
     -moz-transition: background 0.5s;
 }
 
@@ -62,7 +61,6 @@ button {
     color: burlywood;
     letter-spacing: 1px;
     transition: all 0.5s;
-    -webkit-transition: all 0.5s;
     -moz-transition: all 0.5s;
     outline: none;
 
